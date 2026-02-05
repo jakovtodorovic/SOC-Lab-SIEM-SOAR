@@ -34,19 +34,19 @@ Directory environment to validate detection accuracy and response workflows.
 
 <p align="center">
 Architecture overview:<br/>
-<img src="https://imgur.com/a/9tOKYs5" width="80%"/>
-<br/><br/>
-
+<img src="https://i.imgur.com/gszYsQu.png" width="80%"/>
+<br/>
+<br/>
 SIEM detection mapped to MITRE ATT&CK:<br/>
-<img src="images/wazuh-alert.png" width="80%"/>
-<br/><br/>
-
+<img src="https://i.imgur.com/ryaU2GH.png" width="80%"/>
+<br/>
+<br/>
 Automated SOAR response workflow:<br/>
-<img src="images/shuffle-playbook.png" width="80%"/>
-<br/><br/>
-
+<img src="https://i.imgur.com/TWADy9D.png" width="80%"/>
+<br/>
+<br/>
 Incident handling in IRIS:<br/>
-<img src="images/iris-incident.png" width="80%"/>
+<img src="https://i.imgur.com/FUBxtjQ.png" width="80%"/>
 </p>
 
 <h2>Notes</h2>
